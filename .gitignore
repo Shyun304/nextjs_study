@@ -42,3 +42,6 @@ __snapshots__
 # idea
 .idea
 node_modules
+
+# cache
+*.zip
